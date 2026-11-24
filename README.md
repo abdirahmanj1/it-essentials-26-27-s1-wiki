@@ -1,3 +1,8 @@
 # Arsenal Football Club
 
 Deze wiki gaat over Arsenal, een van de bekendste voetbalclubs van Engeland, uit het noorden van Londen. De club werd in 1886 opgericht door arbeiders van een wapenfabriek in Woolwich, en daar komt ook de bijnaam "The Gunners" vandaan. Sinds 2006 speelt Arsenal in het Emirates Stadium, nadat de club bijna honderd jaar in Highbury had gespeeld. Het bekendste seizoen is 2003-2004, toen het team van trainer Arsène Wenger kampioen werd zonder één wedstrijd te verliezen: "The Invincibles". Vandaag staat de club onder leiding van Mikel Arteta en blijft de rivaliteit met Tottenham Hotspur in de North London Derby een van de heetste van Engeland.
+
+## Inhoud
+
+- [Personages](docs/personages.md): de bekendste spelers en trainers
+- [Locaties](docs/locaties.md): de stadions en het trainingscentrum
