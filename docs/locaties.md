@@ -1,17 +1,15 @@
 # Locaties
 
-De plaatsen waar dit universum zich afspeelt.
+De belangrijkste plaatsen in de geschiedenis van Arsenal.
 
-Vervang de voorbeelden hieronder door **minstens drie** locaties uit je eigen universum, elk met een korte beschrijving van twee tot vier zinnen.
+## Emirates Stadium
 
-## VUL AAN
+Het huidige stadion van Arsenal, in de wijk Holloway in Noord-Londen. Het werd geopend in 2006 en biedt plaats aan ongeveer 60.000 supporters. Hier speelt Arsenal al zijn thuiswedstrijden.
 
-VUL AAN: waar ligt deze plek, wie komt er, en waarom is ze belangrijk voor het verhaal?
+## Highbury
 
-## VUL AAN
+Het oude stadion van Arsenal, waar de club van 1913 tot 2006 speelde. Het stond bekend om zijn art-deco-tribunes en de beroemde "Marble Halls". Vandaag zijn er appartementen gebouwd, maar het oude veld is als tuin bewaard gebleven.
 
-VUL AAN
+## London Colney
 
-## VUL AAN
-
-VUL AAN
+Het trainingscentrum van Arsenal, net buiten Londen in Hertfordshire. Hier trainen de spelers elke dag en bereidt de trainer de wedstrijden voor. Ook de jeugdploegen van de club werken er.
